@@ -1,8 +1,10 @@
 <body>
-<h1 style="text-align: center;">~ 💜 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💜 ~</h1>
-<img src="https://media1.tenor.com/m/5yXRQDHHuQgAAAAd/anime-aesthetic.gif" alt="rka" style="display: block; margin: 0 auto;">
 
-<h2 style="text-align: center;"> 🦋 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦋 </h2>
+<h1 align="center">~ 💜 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💜 ~</h1>
+<div align="center">
+<img src="https://media1.tenor.com/m/5yXRQDHHuQgAAAAd/anime-aesthetic.gif">
+</div>
+<h2 align="center"> 🦋 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦋 </h2>
 
 <div>
     <img src="https://media1.giphy.com/media/GAFd7zecFb6Ss/200w.gif?cid=6c09b9526d4e8sfwdz8gtjcqc7s65k05xpp23auhurc1t7g3&ep=v1_gifs_search&rid=200w.gif&ct=g" align="right">
