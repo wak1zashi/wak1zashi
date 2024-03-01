@@ -15,7 +15,7 @@
         <b>Name:</b> Wakizashi</li>
     </li>
      <li>
-        <b>Loves:</b> anime,games, Development
+        <b>Loves:</b> anime,games, music, development
     </li>
      <li>
        <b>Hobbys:</b> Tech Stuff, Radio engineering
