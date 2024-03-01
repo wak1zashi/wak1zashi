@@ -25,7 +25,7 @@
 <br><br>
 </div>
 
-<h2 align="center">            ~ 📇 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼  📇 ~</h2>
+<h2 align="center">             ~ 📇 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼  📇 ~</h2>
 <div>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <div style="display: inline-block;">
